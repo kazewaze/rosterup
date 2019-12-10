@@ -1,0 +1,57 @@
+.field-editor {
+  background-size: 375px 833px;
+  height: 833px;
+  width: 375px;
+  background-image: url('./baseball-background.jpg');
+  background-repeat: no-repeat;
+}
+
+.outfield {
+  display: flex;
+  justify-content: center;
+  margin-top: -77px;
+}
+
+.left {
+  margin-top: 77px;
+}
+
+.center-one {
+  margin-right: 14px;
+}
+
+.center-two {
+  margin-left: 14px;
+}
+
+.right {
+  margin-top: 77px;
+}
+
+.infield {
+  margin-top: 55px;
+  display: flex;
+  justify-content: center
+}
+
+.first-base {
+  margin-left: 55px;
+  margin-top: 107px;
+}
+
+.second-base {
+  /*  */
+}
+
+.third-base {
+  margin-right: 55px;
+  margin-top: 107px;
+}
+
+.catcher {
+  margin-top: 233px;
+}
+
+/* .left-outfield option {
+
+} */

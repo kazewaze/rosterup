@@ -1,0 +1,35 @@
+.nav-bar {
+  height: 90px;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  background-color: #333;
+  font-size: 14px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.nav-bar-links {
+  display: flex;
+}
+
+#field-icon {
+  height: 70px;
+  width: 70px;
+  margin-bottom: 26px;
+  margin-left: 37px;
+  margin-right: 50px;
+}
+
+#roster-icon {
+    height: 70px;
+    width: 70px;
+    margin-bottom: 23px;
+    margin-right: 43px;
+}
+
+  #about-icon {
+    height: 70px;
+    width: 70px;
+    margin-bottom: 22px;
+}

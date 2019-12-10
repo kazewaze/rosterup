@@ -1,0 +1,10 @@
+.roster-editor {
+  border-bottom: 3px solid #333;
+}
+
+.roster-editor input {
+  border: 1px solid #333;
+  margin: 7px 3px;
+  padding: 3px;
+}
+
